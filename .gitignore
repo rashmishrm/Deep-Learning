@@ -1,2 +1,8 @@
-
+*.png
 *.gz
+
+*.iml
+
+*.xml
+
+*.pickle
